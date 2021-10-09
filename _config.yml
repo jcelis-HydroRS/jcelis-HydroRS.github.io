@@ -1,6 +1,6 @@
 title: "Jorge Celis"
 author: "Jorge Celis"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "On this website, you can find some cool applications of remote sensing data that I have done on diverse projects."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,12 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Home Change, icon: home}
+  - {file: "README.md", title: About me, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:jcelis-HydroRS@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/jcelis-HydroRS"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
