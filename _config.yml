@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Code"}
   - {file: "index.md", title: "Home Change", icon: home}
   - {file: "README.md", title: "About me", icon: address-card}
+  - {file: '_posts/JCelis_Floods_Ppt_2.0.pdf', title: 'test'}
 
 
 
